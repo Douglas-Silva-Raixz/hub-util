@@ -23,7 +23,7 @@ body{
     margin-right: 120px;
     margin-left: 120px;
     border-color: var(--borda);
-    border-radius: 3px;
+    border: 2px solid var(--borda);
 }
 .subtitulo{
     padding-top: 9px;
@@ -34,5 +34,5 @@ body{
     box-sizing: border-box;
     margin-right: 120px;
     margin-left: 120px;
-    border-color: var(--borda);
+    border: 2px solid var(--borda);
 }
