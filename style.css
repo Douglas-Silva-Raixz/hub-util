@@ -1,6 +1,12 @@
-header{
-    background-color: whitesmoke;
+:root {
+    --azul: rgb(40, 139, 252);
+}
 
+body{
+    background-color: whitesmoke;
+}
+header{
+    color: var(--azul);
 }
 
 
