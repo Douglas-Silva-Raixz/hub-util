@@ -38,5 +38,6 @@ body{
 }
 article{
     text-align: center;
-    height: 120px;
+    height: 140px;
+    border: 1px solid var(--borda);
 }
