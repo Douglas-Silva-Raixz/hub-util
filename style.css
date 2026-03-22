@@ -1,15 +1,16 @@
 :root {
     --azul: rgb(40, 139, 252);
 }
-
+header{
+    background-color: white;
+    height: 120px;
+    width: 100%;
+}
+.logo{
+    height: 75px;
+}
 body{
     background-color: whitesmoke;
 }
-header{
-    color: var(--azul);
-}
-img{
-     height: 2rem;
-   
-}
+
 
