@@ -1,8 +1,8 @@
 :root {
     --azul: rgb(40, 139, 252);
     --escuro: rgb(227, 229, 230);
-    --claro: rgb(190, 190, 190);
-    --borda:
+    --claro: whitesmoke;
+    --borda:rgb(190, 190, 190);
 }
 header{
     background-color: white;
@@ -22,7 +22,7 @@ body{
     box-sizing: border-box;
     margin-right: 120px;
     margin-left: 120px;
-    border: 2px solid var(--borda);
+    border: 1px solid var(--borda);
     border-bottom: 0px;
 }
 .subtitulo{
@@ -34,5 +34,5 @@ body{
     box-sizing: border-box;
     margin-right: 120px;
     margin-left: 120px;
-    border: 2px solid var(--borda);
+    border: 1px solid var(--borda);
 }
