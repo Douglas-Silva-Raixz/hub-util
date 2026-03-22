@@ -23,6 +23,7 @@ body{
     margin-right: 120px;
     margin-left: 120px;
     border-color: var(--borda);
+    border-radius: 3px;
 }
 .subtitulo{
     padding-top: 9px;
