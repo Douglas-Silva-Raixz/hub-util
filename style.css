@@ -45,7 +45,7 @@ body{
 }
 article{
     text-align: center;
-    height: 82px;
+    height: 96px;
     border: 1px solid var(--borda);
     border-radius: 0.3rem;
     margin: 20px;
@@ -54,5 +54,5 @@ article{
     height: 55px;
 }
 .conteudo{
-    height: 82px;
+    height: 96px;
 }
