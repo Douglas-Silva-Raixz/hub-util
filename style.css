@@ -28,6 +28,7 @@ body{
     border: 1px solid var(--borda);
     border-bottom: 0px;
     font-weight: 700;
+    border-radius: 0.3rem;
 }
 .container{
     background-color: white;
@@ -36,6 +37,7 @@ body{
     margin-right: 120px;
     margin-left: 120px;
     border: 1px solid var(--borda);
+    border-radius: 0.3rem;
     display:grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
@@ -43,8 +45,12 @@ article{
     text-align: center;
     height: 82px;
     border: 1px solid var(--borda);
+    border-radius: 0.3rem;
     margin: 20px;
 }
 .minilogos{
     height: 55px;
+}
+.conteudo{
+    align-content: center;
 }
