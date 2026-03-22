@@ -18,9 +18,9 @@ body{
     background-color: var(--claro);
     text-align: center;
     height: 45px;
-    width: 100%;
+    padding-right: 100px;
 }
 .subtitulo{
-    padding-top: 10px;
+    padding-top: 9px;
 }
 
