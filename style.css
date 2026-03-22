@@ -19,5 +19,6 @@ body{
     text-align: center;
     height: 45px;
     width: 84%;
+    box-sizing: border-box;
 }
 
