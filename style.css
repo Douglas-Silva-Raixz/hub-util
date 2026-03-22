@@ -1,5 +1,7 @@
 :root {
     --azul: rgb(40, 139, 252);
+    --escuro: rgb(227, 229, 230);
+    --claro: whitesmoke;
 }
 header{
     background-color: white;
@@ -10,7 +12,7 @@ header{
     height: 3rem;
 }
 body{
-    background-color: whitesmoke;
+    background-color: var(--escuro);
 }
 
 
