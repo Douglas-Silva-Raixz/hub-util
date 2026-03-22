@@ -22,7 +22,7 @@ body{
     box-sizing: border-box;
     margin-right: 120px;
     margin-left: 120px;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     border: 1px solid var(--borda);
     border-bottom: 0px;
 }
