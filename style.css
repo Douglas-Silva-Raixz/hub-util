@@ -8,5 +8,8 @@ body{
 header{
     color: var(--azul);
 }
-
+img{
+     height: 2rem;
+   
+}
 
