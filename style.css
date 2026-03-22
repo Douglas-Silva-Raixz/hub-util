@@ -22,11 +22,9 @@ body{
     box-sizing: border-box;
     margin-right: 120px;
     margin-left: 120px;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     border: 1px solid var(--borda);
     border-bottom: 0px;
-}
-.subtitulo{
     padding-bottom: 9px;
 }
 
