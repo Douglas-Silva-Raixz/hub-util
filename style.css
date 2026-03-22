@@ -35,6 +35,8 @@ body{
     margin-right: 120px;
     margin-left: 120px;
     border: 1px solid var(--borda);
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
 article{
     text-align: center;
