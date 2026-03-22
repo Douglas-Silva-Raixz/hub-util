@@ -17,7 +17,7 @@ header{
 body{
     background-color: var(--escuro);
 }
-.universidade{
+.subtitulo{
     background-color: var(--claro);
     text-align: center;
     height: 45px;
