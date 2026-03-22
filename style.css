@@ -28,7 +28,6 @@ body{
     border-bottom: 0px;
     font-weight: 700;
 }
-
 .container{
     background-color: white;
     height: 180px;
@@ -36,7 +35,4 @@ body{
     margin-right: 120px;
     margin-left: 120px;
     border: 1px solid var(--borda);
-}
-h2{
-    font-size: 27px;
 }
