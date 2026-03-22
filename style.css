@@ -58,14 +58,13 @@ article{
 }
 footer{
     background-color: var(--claro);
-    bottom: 0;
-    position: fixed;
     width: 100%;
     height: 3rem;
     border-radius: 0.3rem;
+    text-align: center;
 }
 footer h3{
     margin: 0.5rem;
     color: var(--cor-texto);
-    font-style: italic;
+    
 } 
