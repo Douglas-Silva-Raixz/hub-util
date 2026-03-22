@@ -19,14 +19,14 @@ body{
 .universidade{
     background-color: var(--claro);
     text-align: center;
-    height: 50px;
+    height: 45px;
     box-sizing: border-box;
     margin-right: 120px;
     margin-left: 120px;
     margin-top: 2rem;
     border: 1px solid var(--borda);
     border-bottom: 0px;
-    padding-bottom: 10px;
+    padding-bottom: 9px;
 }
 
 .container{
