@@ -3,11 +3,11 @@
 }
 header{
     background-color: white;
-    height: 85px;
+    height: 4rem;
     width: 100%;
 }
 .logo{
-    height: 75px;
+    height: 3rem;
 }
 body{
     background-color: whitesmoke;
