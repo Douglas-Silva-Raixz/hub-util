@@ -56,15 +56,3 @@ article{
 .conteudo{
     height: 96px;
 }
-.container2{
-    background-color: white;
-    height: 150px;
-    box-sizing: border-box;
-    margin-right: 120px;
-    margin-left: 120px;
-    border: 1px solid var(--borda);
-    border-bottom-right-radius: 0.3rem;
-    border-bottom-left-radius: 0.3rem;
-    display:grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-}
