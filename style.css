@@ -24,6 +24,7 @@ body{
     margin-left: 120px;
     border: 1px solid var(--borda);
     border-bottom: 0px;
+    padding-top: 1rem;
 }
 .subtitulo{
     padding-top: 9px;
