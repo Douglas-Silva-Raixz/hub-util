@@ -18,7 +18,9 @@ body{
     background-color: var(--claro);
     text-align: center;
     height: 45px;
-    width: 84% 84%;
+    border-left-width: 84%;
+    border-right-width: 84%;
     box-sizing: border-box;
+    display: block;
 }
 
