@@ -44,3 +44,6 @@ article{
     border: 1px solid var(--borda);
     margin: 20px;
 }
+.conteudo{
+    color: black;
+}
