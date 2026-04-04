@@ -41,7 +41,7 @@ body{
     border-bottom-right-radius: 0.3rem;
     border-bottom-left-radius: 0.3rem;
     display:grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
 }
 article{
     text-align: center;
