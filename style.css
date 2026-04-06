@@ -5,13 +5,13 @@
 }
 header{
     background-color: white;
-    height: 60px;
+    height: 80px;
     width: 100%;
     border: 1px solid var(--borda);
     border-radius: 0.3rem;
 }
 .logo{
-    height: 55px;
+    height: 75px;
 }
 body{
     background-color: var(--escuro);
